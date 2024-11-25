@@ -17,7 +17,7 @@ Verify
 Open In Editor
 Edit
 Copy code
-git clone https://github.com/your-username/coupon-api.git
+git clone https://github.com/SaniyaPathre/coupon_api.git
 cd coupon-api
 Install Requirements
 Install the required packages using pip:
